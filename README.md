@@ -1,2 +1,2 @@
 # ExpressionEngineTemplate
-Template for Expression Engine templates
+Template for Expression Engine projects
